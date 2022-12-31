@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
+body{
+    background-color: #F8C8DC;
+}
+.a img{
+				width: 200px;
+}
+
+.a{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+				font-family: 'Alegreya Sans', sans-serif;
+}

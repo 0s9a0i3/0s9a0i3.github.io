@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
+body{
+    background-color: #FAF9F6;
+}
+.btn{
+				display: grid;
+				justify-content:center;
+				align-items: center;
+				height: 2px;
+				gap: 4px 30%;
+				margin: 120px;
+}
+#btn1{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+		font-weight: bold;
+    border-radius: 39px;
+    background-color: #F5DCE0;
+    bottom:5px;       
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#btn2{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+		font-weight: bold;
+    border-radius: 39px;
+    background-color: #F5DCE0;
+    bottom:5px;       
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#btn3{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+		font-weight: bold;
+    border-radius: 39px;
+    background-color: #F5DCE0;
+    bottom:5px;       
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#btn4{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+		font-weight: bold;
+    border-radius: 39px;
+    background-color: #F5DCE0;
+    bottom:5px;       
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#btn5{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+		font-weight: bold;
+    border-radius: 39px;
+    background-color: #F5DCE0;
+    bottom:5px;       
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#btn6{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+		font-weight: bold;
+    border-radius: 39px;
+    background-color: #F5DCE0;
+    bottom:5px;       
+    font-family: 'Alegreya Sans', sans-serif;
+}
