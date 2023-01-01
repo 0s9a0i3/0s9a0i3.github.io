@@ -71,7 +71,7 @@ body{
   font-family: 'Alegreya Sans', sans-serif;
   color: var(--txt-color);
   text-align: left;
-  font-size: 10px;
+  font-size: 8px;
 }
 .heart {
   position: absolute;
